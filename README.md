@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FteacherSsamko%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/teacherSsamko)
+
 <a href="https://github.com/teacherSsamko">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=teacherSsamko&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=Personal%20-%20teacherSsamko&card_width=450" />
 </a>
