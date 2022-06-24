@@ -6,8 +6,8 @@
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=teacherSsamko&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=Personal%20-%20teacherSsamko&card_width=450" />
 </a>
 
-<a href="https://github.com/Eunsub-dev">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Eunsub-dev&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=In%20HITS%20-%20Eunsub-dev&card_width=450" />
+<a href="https://github.com/Eunsub-thumb">
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Eunsub-thumb&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=In%20HITS%20-%20Eunsub-dev&card_width=450" />
 </a>
 
 
