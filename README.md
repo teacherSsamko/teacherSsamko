@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - Contributions
-  - bootstrap-vue/bootstrap-vue
-  - tfranzel/drf-spectacular
-  - nextos/act
-  - django/channels
+  - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+  - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular)
+  - [nextos/act](https://github.com/nextos/act)
+  - [django/channels](https://github.com/django/channels)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FteacherSsamko%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/teacherSsamko)
