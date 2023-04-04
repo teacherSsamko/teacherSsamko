@@ -3,7 +3,7 @@
 - Contributions
   - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
   - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular)
-  - [nextos/act](https://github.com/nextos/act)
+  - [nektos/act](https://github.com/nektos/act)
   - [django/channels](https://github.com/django/channels)
 
 
