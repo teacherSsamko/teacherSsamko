@@ -13,10 +13,6 @@
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=teacherSsamko&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=Personal%20-%20teacherSsamko&card_width=450" />
 </a>
 
-<a href="https://github.com/Eunsub-thumb">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Eunsub-thumb&show_icons=true&theme=radical&count_private=true&custom_title=In%20Thumb-technologies" />
-</a>
-
 
 
 <a href="https://github.com/teacherSsamko">
